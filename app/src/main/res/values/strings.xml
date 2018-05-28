@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PDI</string>
+    <string name="scan_bar_code">Scan bar code</string>
+    <string name="setting">Setting</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>
